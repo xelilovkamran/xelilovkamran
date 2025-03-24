@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on new projects**
+ 🔭 I’m currently working on new projects
  
  🌱 I’m currently learning **django, FastAPI, Next.js**
 
