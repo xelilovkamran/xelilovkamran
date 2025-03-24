@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **[Invoicing App](https://github.com/xelilovkamran/invoice-app.git) project(web based full-stack application)**
+ 🔭 I’m currently working on new projects**
  
- 🌱 I’m currently learning **django, Next.js**
+ 🌱 I’m currently learning **django, FastAPI, Next.js**
 
 💬 You can ask me about **JavaScript, Tailwindcss, React, TypeScript... or anything [here](https://github.com/xelilovkamran/xelilovkamran/issues)**
 
