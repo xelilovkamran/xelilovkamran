@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on new projects
  
- 🌱 I’m currently learning **django, FastAPI, Next.js**
+ 🌱 I’m currently learning **Nest.js**
 
 💬 You can ask me about **JavaScript, Tailwindcss, React, TypeScript... or anything [here](https://github.com/xelilovkamran/xelilovkamran/issues)**
 
