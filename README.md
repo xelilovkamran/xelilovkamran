@@ -1,76 +1,49 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=xelilovkamran.xelilovkamran" />
+<div align="center">
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👨‍💻;+I'm+Kamran+Khalilov;" />
-</h1>
+# Hi, I'm Kamran Khalilov 👋
 
-<h3 align="center">A passionate FrontEnd Developer from Azerbaijan</h3>
+Software Engineer from Azerbaijan, building with **Go, Node.js, React & Next.js**
+
+[![Gmail](https://img.shields.io/badge/-kamran.khalilov%40khalilov.dev-333333?style=flat-square&logo=gmail&logoColor=white)](mailto:kamran.khalilov@khalilov.dev)
+[![LinkedIn](https://img.shields.io/badge/-kamran--khalilov-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamran-khalilov)
+[![Ask me anything](https://img.shields.io/badge/-Ask%20me%20anything-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/xelilovkamran/xelilovkamran/issues)
+
+</div>
+
+<br/>
+
+## About
+
+- 💼 Working as a **Software Engineer**, building backend services with **Go / Node.js** and frontends with **React / Next.js**
+- 🌱 Currently deepening my knowledge of **Go** and distributed systems
+- 💬 Happy to talk **Go, JavaScript/TypeScript, React, Next.js, Node.js** — open an [issue](https://github.com/xelilovkamran/xelilovkamran/issues)
+
+<br/>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=go,nodejs,express,nestjs,redis,mongodb,js,ts,react,redux,nextjs" /><br/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,mysql,postgres,firebase,git,github,docker,kubernetes,linux,nginx,postman,vscode,figma" />
+
+</div>
+
+<br/>
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=xelilovkamran&count_private=true&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="readme stats" />
+<img height="165" src="https://streak-stats.demolab.com/?user=xelilovkamran&count_private=true&theme=default&hide_border=true" alt="streak stats"/>
+
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelilovkamran&hide=HTML&langs_count=8&layout=compact&theme=default&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on **[Invoicing App](https://github.com/xelilovkamran/invoice-app.git) project(web based full-stack application)**
- 
- 🌱 I’m currently learning **django, Next.js**
-
-💬 You can ask me about **JavaScript, Tailwindcss, React, TypeScript... or anything [here](https://github.com/xelilovkamran/xelilovkamran/issues)**
-
- </div>
- 
-<div align="center"> 
-  <a href="mailto:xlilovkamran@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/kamran-xelilov" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=xelilovkamran.xelilovkamran" />
 </div>
-
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react" />
-    <img src="https://skillicons.dev/icons?i=typescript" />
-    <img src="https://skillicons.dev/icons?i=js" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-    <img src="https://skillicons.dev/icons?i=tailwindcss" />
-    <img src="https://skillicons.dev/icons?i=python" />
-    <img src="https://skillicons.dev/icons?i=django" />
-    <img src="https://skillicons.dev/icons?i=mui" />
-    <img src="https://skillicons.dev/icons?i=html" />
-    <img src="https://skillicons.dev/icons?i=css" />
-    <img src="https://skillicons.dev/icons?i=scss" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=github" />
-    <img src="https://skillicons.dev/icons?i=git" />
-    <img src="https://skillicons.dev/icons?i=redux" />
-    <img src="https://skillicons.dev/icons?i=firebase" />
-    <img src="https://skillicons.dev/icons?i=npm" />
-    <img src="https://skillicons.dev/icons?i=mysql" />
-    <img src="https://skillicons.dev/icons?i=postman" />
-    <img src="https://skillicons.dev/icons?i=vscode" />
-    <img src="https://skillicons.dev/icons?i=vercel" />
-    <img src="https://skillicons.dev/icons?i=figma" />
-    <img src="https://skillicons.dev/icons?i=cpp" />
-
-</div>
-
-<br/>
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-<div style="display: flex; height: 200px">
-  <img  style="width: 50%; height: 100%" src="https://streak-stats.demolab.com/?user=xelilovkamran&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-
-  <img style="width: 50%; height: 100%" src="https://github-readme-stats.vercel.app/api?username=xelilovkamran&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-</div>
-
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelilovkamran&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/>
